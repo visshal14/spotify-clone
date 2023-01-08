@@ -1,7 +1,7 @@
-## Spotify Clone
+# Spotify Clone
 This is a clone webapp of Spotify
 
-## [Link to deployed project](https://spotify-clone-ff5bf.web.app/#)
+### [Link to deployed project](https://spotify-clone-ff5bf.web.app/#)
 ## Technologies Used
 * ReactJs
 * Firebase
@@ -21,8 +21,8 @@ Spotify Clone has spotify authentication used to get the list of playlists and s
 
 ## To Run The Project
 * Fork this project
-* get you spotify client id from [developer.spotify.com](https://developer.spotify.com/dashboard/)
-* change your redirectUri from spotify developer dashboard
+* get your spotify client id from [developer.spotify.com](https://developer.spotify.com/dashboard/)
+* change your redirectUri in spotify developer dashboard to your localhost port
 * add your clientId in spotify.js in src folder
 * change your redirectUri in app to your localhost
 * run react project start command
